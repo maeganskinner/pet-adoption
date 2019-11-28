@@ -97,6 +97,40 @@ function Landing() {
           </div>
         </div>
       </div>
+
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+     
+
+
+      <div class="container">
+                <div class="row">
+                    <div class="col-md">
+                        <section>
+                            <div class="overlay-wcs">
+                                <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                                    <source src="https://player.vimeo.com/external/338097672.sd.mp4?s=516d04c46f9ffb029e8b30cdb4cd66a1dd0f3af3&profile_id=139&oauth2_token_id=57447761" type="video/mp4" />
+                                </video>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>  
+
     </>
   );
 }

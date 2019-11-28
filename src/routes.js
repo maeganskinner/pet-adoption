@@ -1,7 +1,7 @@
 import React from "react";
 import {Switch, Route} from "react-router-dom";
 import Landing from "./components/Landing";
-import Pets from "./components/Pets";
+import Pets from "./components/OurShades";
 import AboutUs from "./components/AboutUs";
 
 

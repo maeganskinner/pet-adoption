@@ -4,6 +4,9 @@ import "./Nav.css";
 function Nav() {
   return (
     <>
+
+
+
       <p class="navbar-header"> Sunglass Chic </p>
 
       <ul class="nav nav-tabs">
@@ -28,6 +31,13 @@ function Nav() {
           </a>
         </li>
       </ul>
+
+
+
+
+
+
+      
     </>
   );
 }

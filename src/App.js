@@ -1,9 +1,10 @@
 import React from 'react';
 import Landing from './components/Landing';
 import Nav from './components/Nav';
-import Footer from './components/Footer';
+//import Footer from './components/Footer';
 import Header from './components/Header';
-import AboutUs from './components/AboutUs';
+import OurShades from './components/OurShades';
+
 
 
  
@@ -13,6 +14,8 @@ function App () {
       <Nav />
       <Header />
       <Landing />
+      <OurShades />
+      
     </div>
   );
 }

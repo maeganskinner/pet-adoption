@@ -41,3 +41,31 @@
           </div>
         </div>
       </div>
+
+
+
+
+
+
+
+
+
+      	<div class="banner">
+	      <video autoplay muted loop class="tagline-video">
+          <source src="http://www.bigcom.com/assets/2014/10/asmc_bg2.mp4" type="video/mp4" />>
+        </video> 
+        
+        <div class="overlay">
+
+        </div>  
+      </div>
+
+
+
+
+     header  
+     
+     body {
+    background-image: url("https://images.pexels.com/photos/794064/pexels-photo-794064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+
+     }
