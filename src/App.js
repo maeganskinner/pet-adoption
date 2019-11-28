@@ -13,11 +13,6 @@ function App () {
       <Nav />
       <Header />
       <Landing />
-      <AboutUs />
-      <Footer />
-
-      
-
     </div>
   );
 }

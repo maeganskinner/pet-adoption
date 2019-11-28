@@ -1,47 +1,74 @@
-body {
-
-    background-color: #fff4e4;
-   
+.register{
+    background: -webkit-linear-gradient(left, #b3381a, #f5bd07);
+    margin-top: 3%;
+    padding: 3%;
+}
+.register-left{
+    text-align: center;
+    color: black;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+.register-left input{
+    border: none;
+    border-radius: 1.5rem;
+    padding: 2%;
+    width: 60%;
+    background: black;
+    font-weight: bold;
+    color: #383d41;
+    margin-top: 30%;
+    margin-bottom: 3%;
+    cursor: pointer;
 }
 
-.header {
 
-    font-family: 'Montserrat', sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #03DAC6;
+.register-left p{
+    font-weight: lighter;
+    padding: 12%;
+    margin-top: -9%;
+}
+
+.register .register-form{
+    padding: 10%;
+    margin-top: 10%;
+}
+
+.btnRegister{
+    float: right;
+    margin-top: 10%;
+    border: none;
+    border-radius: 1.5rem;
+    padding: 2%;
+    background: -webkit-linear-gradient(left, #f5bd07, #b3381a );
+    color: black;
+    font-weight: 600;
+    width: 50%;
+    cursor: pointer;
 
 }
 
-.welcome {
-   
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.register {
+    padding: 2%;
+    height: 34px;
+    font-weight: 600;
+    color: black;
+    border-top-right-radius: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
 }
 
-.blerb1 {
-    
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 50px;
-    margin: 50px;
-
+.register .nav-link:hover{
+    border: none;
 }
 
-.container1 {
 
-    padding: 40px 60px;
-    margin: 40px 60px;
-    background-color: #d1274b;
-}
 
-.container2 {
-
-    padding: 60px 80px 80px 60px;
-    margin: 60px 80px 80px 60px;
-    background-color: #3d0e1e;
+.register-heading{
+    text-align: center;
+    margin-top: 8%;
+    margin-bottom: -15%;
+    color: #495057;
 }
 

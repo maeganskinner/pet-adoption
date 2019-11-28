@@ -12,10 +12,7 @@ function Header() {
         <br></br>
 
             <div class="paragraph" data-delay="1000">
-                <p> Chic Sassy Fun Cool Epic Brave Sweet  </p> 
-                <p> </p> 
-
-                
+                <p> Chic Sassy Fun Cool Epic Brave Sweet Loyal  </p> 
             </div>
 
         <br></br>
